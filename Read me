@@ -1,0 +1,2 @@
+First run the mnakefile inside the /ising folder then the makefile in the origin folder.
+You can modify the number of elements from the tester.cu
